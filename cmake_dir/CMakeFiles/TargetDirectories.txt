@@ -1,0 +1,3 @@
+/home/chenhanxuan/Documents/OpenCV_Notes/CMake_simplify/type_myself/cmake_dir/CMakeFiles/edit_cache.dir
+/home/chenhanxuan/Documents/OpenCV_Notes/CMake_simplify/type_myself/cmake_dir/CMakeFiles/rebuild_cache.dir
+/home/chenhanxuan/Documents/OpenCV_Notes/CMake_simplify/type_myself/cmake_dir/CMakeFiles/power.out.dir

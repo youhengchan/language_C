@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chenhanxuan/Documents/OpenCV_Notes/CMake_simplify/type_myself/exp.c
+stdio.h
+-
+stdlib.h
+-
+
